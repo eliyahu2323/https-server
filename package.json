@@ -1,0 +1,15 @@
+{
+  "name": "try-https",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L server.js"
+  },
+  "author": "eli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.2"
+  }
+}
